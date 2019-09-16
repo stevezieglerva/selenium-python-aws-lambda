@@ -5,3 +5,4 @@ tcl/**
 __pycache__/**
 lambda_function.zip
 *.code-workspace
+python/**
